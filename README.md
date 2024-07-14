@@ -41,7 +41,7 @@ Root Mean Squared Error (RMSE): 0.8 mm/hr <br>
 Pearson Correlation Coefficient (PCC): 0.78 <br>
 
 ### Acknowledgements:
-I would like to thank Dr. Shruti Upadhyaya (Assistant Professor, Dept of Civil Engineering and Climate Change, IIT Hyderabad) for her guidance and support throughout this internship project. Her expertise and insights were invaluable in helping me achieve these results. I would also like to express my gratitude to Mr. Abhigyan Chakraborty and Mr. Yashraj Nagraj Upase of the Climate Change Department at IITH. Their assistance with data acquisition was instrumental to this project.
+I would like to thank Dr. Shruti Upadhyaya (Assistant Professor, Dept of Civil Engineering and Climate Change, IIT Hyderabad) for her guidance and support throughout this internship project. Her expertise and insights were invaluable in helping me achieve these results.<br> I would also like to express my gratitude to Mr. Abhigyan Chakraborty and Mr. Yashraj Nagraj Upase of the Climate Change Department at IITH for guiding me through the process of data acquisition.
 
 
 
